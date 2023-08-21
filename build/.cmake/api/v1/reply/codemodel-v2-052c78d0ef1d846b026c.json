@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Release-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Release",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Channeling_Quantum_Criticality",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_brownian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_brownian-Release-b5876270bcf57abcb666.json",
+					"name" : "dmrg_brownian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_heisenberg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_heisenberg-Release-76e46e63c3a46566b125.json",
+					"name" : "dmrg_heisenberg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_heisenberg_2d_obc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_heisenberg_2d_obc-Release-04aad6c5f30b5c11fdc6.json",
+					"name" : "dmrg_heisenberg_2d_obc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_ising::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_ising-Release-ed18b7b799ecb11cafc1.json",
+					"name" : "dmrg_ising",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "entropy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entropy-Release-c21640f23ce3558f28c8.json",
+					"name" : "entropy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fidelity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fidelity-Release-4f94c4f074ca31ff50a3.json",
+					"name" : "fidelity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_brownian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_brownian-Release-181b81bfffa2aa32f853.json",
+					"name" : "measure_brownian",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hao-xin/Documents/GitHub/quantum_channel/build",
+		"source" : "/Users/hao-xin/Documents/GitHub/quantum_channel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

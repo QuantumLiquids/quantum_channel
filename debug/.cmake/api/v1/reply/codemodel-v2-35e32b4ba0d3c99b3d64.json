@@ -1,0 +1,114 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.14"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Channeling_Quantum_Criticality",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_brownian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_brownian-Debug-2539b493892de22beea6.json",
+					"name" : "dmrg_brownian",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_heisenberg::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_heisenberg-Debug-84aaaff58e6b7720b5e1.json",
+					"name" : "dmrg_heisenberg",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_heisenberg_2d_obc::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_heisenberg_2d_obc-Debug-16df9066249b87b8f508.json",
+					"name" : "dmrg_heisenberg_2d_obc",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "dmrg_ising::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-dmrg_ising-Debug-1e6d5dad8e9e7db9c2b3.json",
+					"name" : "dmrg_ising",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "entropy::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-entropy-Debug-97efea81482b9a095fa8.json",
+					"name" : "entropy",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "fidelity::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-fidelity-Debug-876e4fa6723620935df9.json",
+					"name" : "fidelity",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "measure_brownian::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-measure_brownian-Debug-51effb76fa8c029fcc5d.json",
+					"name" : "measure_brownian",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/hao-xin/Documents/GitHub/quantum_channel/debug",
+		"source" : "/Users/hao-xin/Documents/GitHub/quantum_channel"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

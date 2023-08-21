@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/ninja -DCMAKE_C_COMPILER=/usr/local/opt/llvm/bin/clang -DCMAKE_CXX_COMPILER=/usr/local/opt/llvm/bin/clang++ -G Ninja -S /Users/hao-xin/Documents/GitHub/quantum_channel -B /Users/hao-xin/Documents/GitHub/quantum_channel/debug
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/hao-xin/Documents/GitHub/quantum_channel/debug
